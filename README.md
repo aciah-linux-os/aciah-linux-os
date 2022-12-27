@@ -1,6 +1,6 @@
 - 👋 Bonjour, nous sommes l'association ACIAH
 - 👀 Accessibilité, Communication, Information, Accompagnement du Handicap
-- 🌱 Nous cherchons tout ce qui peut simplifier et faciliter l'utilisation d'un ordinataue, pour les aveugles et pour tous.
+- 🌱 Nous cherchons tout ce qui peut simplifier et faciliter l'utilisation d'un ordinateur, pour les aveugles et pour tous.
 - 💞️ Et nous cherchons bien sûr des personnes souhaitant y contribuer avec nous.
 - 📫 On peut nous écrire à : aciah@laposte.net ou b-m.poiraud@orange.fr 
 - On peut aussi nous appeler : 09 77 81 55 98 ou 06 50 04 98 95
